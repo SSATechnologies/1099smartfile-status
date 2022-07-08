@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 272,
     "timeDay": 445,
-    "timeWeek": 285,
+    "timeWeek": 267,
     "timeMonth": 272,
     "timeYear": 272,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 208,
     "timeDay": 329,
-    "timeWeek": 218,
+    "timeWeek": 204,
     "timeMonth": 208,
     "timeYear": 208,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 87,
     "timeDay": 99,
-    "timeWeek": 84,
+    "timeWeek": 85,
     "timeMonth": 87,
     "timeYear": 87,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 241,
     "timeDay": 346,
-    "timeWeek": 225,
+    "timeWeek": 230,
     "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {}
@@ -76,7 +76,7 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,10 +84,12 @@
     "uptimeYear": "100.00%",
     "time": 323,
     "timeDay": 377,
-    "timeWeek": 246,
+    "timeWeek": 230,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-08": 0
+    }
   },
   {
     "name": "Test Broken Site",
