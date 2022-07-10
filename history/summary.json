@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 480,
-    "timeWeek": 388,
-    "timeMonth": 311,
-    "timeYear": 311,
+    "time": 322,
+    "timeDay": 436,
+    "timeWeek": 390,
+    "timeMonth": 322,
+    "timeYear": 322,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 320,
-    "timeWeek": 288,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "time": 239,
+    "timeDay": 316,
+    "timeWeek": 290,
+    "timeMonth": 239,
+    "timeYear": 239,
     "dailyMinutesDown": {}
   },
   {
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 69,
-    "timeWeek": 78,
+    "timeDay": 77,
+    "timeWeek": 81,
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {}
@@ -58,18 +58,20 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 148,
-    "timeWeek": 252,
+    "timeDay": 233,
+    "timeWeek": 259,
     "timeMonth": 226,
     "timeYear": 226,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-10": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -82,11 +84,11 @@
     "uptimeWeek": "94.90%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "99.90%",
-    "time": 364,
-    "timeDay": 473,
-    "timeWeek": 361,
-    "timeMonth": 364,
-    "timeYear": 364,
+    "time": 377,
+    "timeDay": 536,
+    "timeWeek": 378,
+    "timeMonth": 377,
+    "timeYear": 377,
     "dailyMinutesDown": {
       "2022-07-08": 514
     }
